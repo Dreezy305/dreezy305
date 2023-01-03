@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bankole Idris Adegboyega</h1>
+<h1 align="center">Hi 👋, I'm Idris Adegboyega Bankole</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreezy305&label=Profile%20views&color=0e75b6&style=flat" alt="dreezy305" /> </p>
