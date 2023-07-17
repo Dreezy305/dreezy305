@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreezy305&label=Profile%20views&color=0e75b6&style=flat" alt="dreezy305" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Go**
 
 - 📝 I regularly write articles on [https://medium.com/@bankoleidris](https://medium.com/@bankoleidris)
 
