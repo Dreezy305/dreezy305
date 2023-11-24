@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bankoleidris@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kW1B6hW8Mu-TUEf6PPQxvKBu_RLhPZqu/view?usp=share_link](https://drive.google.com/file/d/1kW1B6hW8Mu-TUEf6PPQxvKBu_RLhPZqu/view?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1gbz7RRtBInA2w2--lixOnL_aVAeBBpRhX0YIgjfNBiM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
