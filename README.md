@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [https://medium.com/@bankoleidris](https://medium.com/@bankoleidris)
+- 📝 I regularly write articles on [Medium](https://medium.com/@bankoleidris) and [Hashnode](https://idrisbankole.hashnode.dev/)
 
 - 💬 Ask me about **React, Nest, Next, Typescript, Javascript**
 
